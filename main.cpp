@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: Azusa
+ * Author: Stanley Seeto
  *
  * Created on October 15, 2015, 10:37 AM
  * 
