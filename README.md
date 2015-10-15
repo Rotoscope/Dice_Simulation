@@ -1,10 +1,11 @@
-# Dice_Simulation
+## Dice_Simulation
  * This program is an assignment that simulates the rolling of two dice
  * The sum of the two values are calculated
  * The expected frequency is compared to the actual frequency
 
 
 Output:
+```
   Sum  Occurrence  Expected Frequency  Actual Frequency
     2        1033           0.0277778         0.0286944
     3        2064           0.0555556         0.0573333
@@ -17,3 +18,4 @@ Output:
    10        2999           0.0833333         0.0833056
    11        1980           0.0555556             0.055
    12        1061           0.0277778         0.0294722
+```
